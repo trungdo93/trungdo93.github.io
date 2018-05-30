@@ -685,7 +685,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-bottom: 70px;
 }
 .what_we_area .construction_iner .construction {
-  text-align: center;
+  text-align: left;
   padding-bottom: 30px;
   cursor: move;
 }
@@ -717,7 +717,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   font: 700 18px "Roboto", sans-serif;
   text-transform: uppercase;
   color: #222222;
-  padding-top: 17px;
+  padding-top: 60px;
   display: block;
 }
 .what_we_area .construction_iner .construction .cns-content p {
