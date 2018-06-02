@@ -685,7 +685,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-bottom: 70px;
 }
 .what_we_area .construction_iner .construction {
-  text-align: left;
+  text-align: center;
   padding-bottom: 30px;
   cursor: move;
 }
